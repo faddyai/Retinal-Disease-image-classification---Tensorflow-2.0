@@ -14,7 +14,7 @@ Keras-Preprocessing==1.0.9
 Markdown==3.0.1
 mkl==2019.0
 networkx==2.3
-numpy==1.16.4
+numpy==1.22.0
 opencv-contrib-python==4.0.0.21
 pandas==0.25.0
 Pillow==6.1.0
